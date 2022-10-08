@@ -18,7 +18,7 @@ body{
 .list {
   list-style-type: none;
   overflow: hidden;
-  background-color: #953C3C;
+  background-color: #0003;
   display: flex;
   justify-content: center;
   flex-direction: row;
